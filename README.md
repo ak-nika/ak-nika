@@ -56,5 +56,3 @@ Welcome to my GitHub profile! I'm a passionate developer who strives to excel in
 <!-- - [Portfolio](#) (If applicable) -->
 
 Thanks for stopping by! Feel free to check out my repositories and collaborate on exciting projects. Let’s build something amazing! 🚀  
- 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
