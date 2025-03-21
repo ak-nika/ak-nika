@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who strives to excel in
 - **Exploring**: MongoDB, PostgreSQL -->
 
 ### **Development Environment**   
-- 🐧 **OS**: Windows and Ubuntu (Learning and exploring its potential for development workflows)  
+- 🐧 **OS**: Windows and Linux - Fedora and Ubuntu (Learning and exploring its potential for development workflows)  
 - 🌐 **Tools**: GitHub, VS Code  
 
 ## 🌟 Interests  
