@@ -52,7 +52,8 @@ Welcome to my GitHub profile! I'm a passionate developer who strives to excel in
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Connect With Me  
-- [LinkedIn](www.linkedin.com/in/akingbayi-ojo-440990335)  
-<!-- - [Portfolio](#) (If applicable) -->
+- [LinkedIn](www.linkedin.com/in/akingbayi-ojo-440990335)
+- [Portfolio](https://nika-portfolio.vercel.app/)
+- [School Github account](https://github.com/king-nika)
 
 Thanks for stopping by! Feel free to check out my repositories and collaborate on exciting projects. Let’s build something amazing! 🚀  
